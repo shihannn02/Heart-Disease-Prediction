@@ -2,7 +2,7 @@
 
 #### Dataset Introduction
 
-This is a heart disease prediction dataset that encompasses 14 predictor variables and 1 target variable. There are totally 6 numerical features and 7 categorical features, excluding the target variable. While bearing similarities to the widely-used heart disease dataset on [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset), this dataset  presents distinct characteristics, particularly in its missing data distribution. Notably, several features exhibit substantial missing values: ca at 65.7%, thal at 52.3%, slope at 31.1%, and fbs at 11.0%, while other features show a slight missing data. This distinguishes it from conventional heart disease datasets, introducing additional complexity to the modeling process and requiring careful consideration in the data preprocessing phase.
+This is a heart disease prediction dataset that encompasses 14 predictor variables and 1 target variable. There are totally 6 numerical features and 7 categorical features, excluding the target variable. While bearing similarities to the widely-used heart disease dataset on [Kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset), this dataset  presents distinct characteristics, particularly in its missing data distribution. Notably, several features exhibit substantial missing values: **ca** at 65.7%, **thal** at 52.3%, **slope** at 31.1%, and **fbs** at 11.0%, while other features show a slight missing data. This distinguishes it from conventional heart disease datasets, introducing additional complexity to the modeling process and requiring careful consideration in the data preprocessing phase.
 
 #### Model Introduction
 
